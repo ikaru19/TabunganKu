@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabunganKu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Tambahkan Data</string>
+
+    <string name="type_prompt">Pengeluaran</string>
+    <string name="total_tabungan_anda">Total Tabungan Anda</string>
+    <string-array name="type_arrays">
+        <item>Pengeluaran</item>
+        <item>Pemasukkan</item>
+    </string-array>
+
+</resources>
